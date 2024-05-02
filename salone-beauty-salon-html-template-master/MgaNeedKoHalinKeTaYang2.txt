@@ -1,0 +1,42 @@
+INDEX:
+Salon Name:
+Logo:
+
+Tag Line:
+
+~Famous Qute~:
+
+
+Staff Training
+Years In Business
+Est.
+Services, packages as well as prices
+
+Customer Reviews(if Available)
+
+Portrait Pics
+{
+staff(kung mag sugot)
+salon equipment
+sevicing a customer
+}
+Landscape Pics{
+pic it salon exterior ag interior
+}
+contacts{
+address
+soocials it salon
+contact info
+
+Our Team
+staff names
+socials kung gusto
+
+
+About Us
+
+intro it salon
+mga services
+goals
+why it was founded
+kung pano nag umpisa
